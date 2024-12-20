@@ -5,15 +5,24 @@
 }
 
 .card {
+      margin-top: 20px;
       width: 270px;
       height: 120px;
       display: flex;
       align-items: center;
       flex-direction: row;
       justify-content: space-around;
+      border-radius: 20px;
+      background-color: rgb(0, 0, 50);
+      border: 1px solid rgb(0, 0, 150);
 }
-
+.card:hover{
+      animation: pulsante infinite alternate 1.8s;
+      margin: 0 20px 0 5px;
+}
 .card img {
       border-radius: 8px;
-      /* background-color: #FFF; */
 }
+.card h6.number { margin-top: -10px; }
+.card img { width: 60px; }
+.card div { text-align: center; font-size: 16px; }

@@ -1,0 +1,21 @@
+{
+      "aulas1": [
+            { "id": 1, "aula": "Aula 1", "imgUrl": "https://www.cdnlogo.com/logos/r/85/react.svg", "texto": "Primeira aula React", "tema": "React" },
+            { "id": 2, "aula": "Aula 2", "imgUrl": "https://cdn.iconscout.com/icon/free/png-256/free-vuejs-1175052.png?f=webp&w=256", "texto": "Primeira aula Vue", "tema": "Vue" },
+            { "id": 3, "aula": "Aula 3", "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl2Xzo4FaWE5PDu0slKdrqVZDsDF1z7eOLMg&s", "texto": "Primeira aula Nuxt.js", "tema": "Nuxt.js" },
+            { "id": 4, "aula": "Aula 4", "imgUrl": "https://cdn-icons-png.flaticon.com/512/5968/5968322.png", "texto": "Primeira aula Node", "tema": "Node.js" },
+            { "id": 5, "aula": "Aula 5", "imgUrl": "https://pbs.twimg.com/profile_images/1565710214019444737/if82cpbS_200x200.jpg", "texto": "Primeira aula Next.js", "tema": "Next.js" }
+      ],
+
+      "cursos": [
+            { "id": 1, "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png", "texto": "JavaScript" },
+            { "id": 2, "imgUrl": "https://www.cdnlogo.com/logos/r/85/react.svg", "texto": "React" },
+            { "id": 3, "imgUrl": "https://cdn.iconscout.com/icon/free/png-256/free-vuejs-1175052.png?f=webp&w=256", "texto": "Vue" },
+            { "id": 4, "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png", "texto": "Angular" },
+            { "id": 5, "imgUrl": "https://pbs.twimg.com/profile_images/1565710214019444737/if82cpbS_200x200.jpg", "texto": "Next.js" },
+            { "id": 6, "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl2Xzo4FaWE5PDu0slKdrqVZDsDF1z7eOLMg&s", "texto": "Nuxt.js" },
+            { "id": 7, "imgUrl": "https://cdn-icons-png.flaticon.com/512/5968/5968322.png", "texto": "Node.js" },
+            { "id": 8, "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Salesforce.com_logo.svg/1280px-Salesforce.com_logo.svg.png", "texto": "Salesface" },
+            { "id": 9, "imgUrl": "https://cdn.icon-icons.com/icons2/3053/PNG/512/microsoft_sharepoint_alt_macos_bigsur_icon_189964.png", "texto": "SharePoint" }
+      ]
+}
